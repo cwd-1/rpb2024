@@ -2,7 +2,7 @@ def main():
     print("Hello World")
 
 def add(x, y):
-    return x + y;
+    return x + y
 
 def divide(x, y):
     if y == 0:
